@@ -31,7 +31,7 @@ contact:
 download:
   title: 下载简历
   icon: fas fa-download fa-fw
-  url: https://drive.sunkai.ml/Resume/Resume.pdf
+  url: https://drive.sunkai.tech/Resume/Resume.pdf
 ---
 
 <!-- {% raw %}
