@@ -3,9 +3,9 @@
 # Site
 language: zh-CN
 
-shortcut_icon: https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Sources/favicon.webp
-favicon: https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Sources/favicon.webp
-avatar: https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Sources/favicon.webp
+shortcut_icon: https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Favicon/favicon/android-chrome-512x512.png
+favicon: https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Favicon/favicon/android-chrome-512x512.png
+avatar: https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Favicon/favicon/android-chrome-512x512.png
 
 # 主题
 theme: resume
@@ -108,13 +108,13 @@ import:
   meta:
   - "<meta name='theme-color' content='#FFFFFF'>"
   - "<meta name='msapplication-TileColor' content='#1BC3FB'>"
-  - "<meta name='msapplication-config' content='https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Hexo/favicon/browserconfig.xml'>"
+  - "<meta name='msapplication-config' content='https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Favicon/favicon/browserconfig.xml'>"
   link:
-  - "<link rel='shortcut icon' type='image/x-icon' href='https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Hexo/favicon/favicon.ico'>"
-  - "<link rel='icon' type='image/x-icon' sizes='32x32' href='https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Hexo/favicon/favicon-32x32.png'>"
-  - "<link rel='apple-touch-icon' type='image/png' sizes='180x180' href='https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Hexo/favicon/apple-touch-icon.png'>"
-  - "<link rel='mask-icon' color='#1BC3FB' href='https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Hexo/favicon/safari-pinned-tab.svg'>"
-  - "<link rel='manifest' href='https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Hexo/favicon/site.webmanifest'>"
+  - "<link rel='shortcut icon' type='image/x-icon' href='https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Favicon/favicon/favicon.ico'>"
+  - "<link rel='icon' type='image/x-icon' sizes='32x32' href='https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Favicon/favicon/favicon-32x32.png'>"
+  - "<link rel='apple-touch-icon' type='image/png' sizes='180x180' href='https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Favicon/favicon/apple-touch-icon.png'>"
+  - "<link rel='mask-icon' color='#5BBAD5' href='https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Favicon/favicon/safari-pinned-tab.svg'>"
+  - "<link rel='manifest' href='https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Favicon/favicon/site.webmanifest'>"
   # script:
 
 # Offline
